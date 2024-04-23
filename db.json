@@ -1,0 +1,324 @@
+{
+    "juices":[
+        {
+            "id": 0,
+            "collab": "Pixie Stix",
+            "name": "Blood Orange",
+            "flavor": "Sweet",
+            "image": "https://i.imgur.com/VoMZdd8.jpg",
+            "price": "$25.00"
+        },
+        {
+            "id": 1,
+            "collab": "Baked Bodega",
+            "name": "Pina",
+            "flavor": "Sweet Pineapple",
+            "image": "https://i.imgur.com/L1dS7Kf.jpg",
+            "price": "$25.00"
+        },
+        {
+            "id": 2,
+            "collab": "Smokeup212",
+            "name": "Morrir Soñando",
+            "flavor": "Sweet & Creamy",
+            "image": "https://i.imgur.com/Z9FfnaA.jpg",
+            "price": "$25.00"
+        },
+        {
+            "id": 3,
+            "collab": "Fidel WorldWide",
+            "name": "Huckleberry",
+            "flavor": "Sweet",
+            "image": "https://i.imgur.com/SSPNHdt.jpg",
+            "price": "$30.00"
+        },
+        {
+            "id": 4,
+            "collab":"Fidel WorldWide",
+            "name": "Lychee",
+            "flavor": "Sweet & Bitter",
+            "image": "https://i.imgur.com/Ik5unC0.jpg",
+            "price": "$30.00"
+        },
+        {
+            "id": 5,
+            "collab":"Fidel WorldWide",
+            "name": "Passion Fruit",
+            "flavor": "Sweet",
+            "image": "https://i.imgur.com/UB9ZLHb.jpg",
+            "price": "$30.00"
+        },
+        {
+            "id": 6,
+            "collab":"Fidel WorldWide",
+            "name": "Peach",
+            "flavor": "Sweet",
+            "image": "https://i.imgur.com/A7I1vvT.jpg",
+            "price": "$30.00"
+        },
+        {
+            "id": 7,
+            "collab":"Fidel WorldWide",
+            "name": "Pomegranate",
+            "flavor":"Sweet & Bitter",
+            "image": "https://i.imgur.com/dcv5ZM5.jpg",
+            "price": "$30.00"
+        },
+        {
+            "id": 8,
+            "collab":"Fidel WorldWide",
+            "name": "Coquito",
+            "flavor":"Sweet",
+            "image": "https://i.imgur.com/yKpieCF.jpg",
+            "price": "$25.00"
+        },
+        {
+            "id": 9,
+            "collab":"Fidel WorldWide",
+            "name": "Coquito (Cookies & Cream)",
+            "flavor":"Sweet",
+            "image": "https://i.imgur.com/yKpieCF.jpg",
+            "price": "$25.00"
+        }
+    ],
+    "strains":[
+        {
+            "id":1,
+            "name": "Bubblegum Gelato",
+            "type": "Indica",
+            "aroma": "Fruity & Earthy",
+            "taste": "Sweet Cherry",
+            "thc_level": "18%",
+            "image": "https://images.leafly.com/flower-images/defaults/generic/strain-36.png?auto=compress%2Cformat&w=350&dpr=2"
+        },
+        {
+            "id":2,
+            "name": "Candy Cane",
+            "type": "Hybrid (Balance Blend)",
+            "aroma": "Complex",
+            "taste": "Sour & Fruity",
+            "thc_level": "18%",
+            "image": "https://images.leafly.com/flower-images/defaults/generic/strain-40.png?auto=compress%2Cformat&w=350&dpr=2"
+        },
+        {
+            "id":3,
+            "name": "Creme Brûlée",
+            "type": "Indica",
+            "aroma": "Sweet dessert-like smell",
+            "taste": "Sweet Vanilla & Roasted Nuts",
+            "thc_level": "20%",
+            "image": "https://images.leafly.com/flower-images/defaults/generic/strain-19.png?auto=compress%2Cformat&w=350&dpr=2"
+        },
+        {
+            "id":4,
+            "name": "Gelato Cake",
+            "type": "Hybrid (Indica-dominant)",
+            "aroma": "Creamy, Berry, Gassy, and Vanilla Frosting",
+            "taste": "Berries and Vanilla",
+            "thc_level": "20%",
+            "image": "https://images.leafly.com/flower-images/defaults/generic/strain-31.png?auto=compress%2Cformat&w=350&dpr=2"
+        },
+        {
+            "id":5,
+            "name": "Gorilla Goo",
+            "type": "Hybrid (Indica-dominant)",
+            "aroma": "Coffee, Pine, Earthy",
+            "taste": "Chocolate",
+            "thc_level": "18%",
+            "image": "https://images.leafly.com/flower-images/defaults/generic/strain-29.png?auto=compress%2Cformat&w=350&dpr=2"
+        },
+        {
+            "id":6,
+            "name": "Grapefruit",
+            "type": "Sativa",
+            "aroma": "Sweet, Citrus, Grapefruit",
+            "taste": "Fruity",
+            "thc_level": "19%",
+            "image": "https://images.leafly.com/flower-images/defaults/generic/strain-32.png?auto=compress%2Cformat&w=350&dpr=2"
+        },
+        {
+            "id":7,
+            "name": "Mac 1",
+            "type": "Hybrid (Balance Blend)",
+            "aroma": "Milky",
+            "taste": "Smooth, Creamy, Funky",
+            "thc_level": "22%",
+            "image": "https://leafly-public.imgix.net/strains/photos/X6WMoxxxTSFF7t7tOqgO_MAC.jpg?auto=compress%2Cformat&w=350&dpr=2"
+        },
+        {
+            "id":8,
+            "name": "Milk Bone ",
+            "type": "Hybrid (Balance Blend)",
+            "aroma": "Citrus, Grapefruit, Apple",
+            "taste": "Fruity",
+            "thc_level": "23%",
+            "image": "https://images.leafly.com/flower-images/defaults/generic/strain-35.png?auto=compress%2Cformat&w=350&dpr=2"
+        },
+        {
+            "id":9,
+            "name": "Purple Frost ",
+            "type": "Hybrid (Balance Blend)",
+            "aroma": "Earthy Undertone, Diesel Fuel, Spices",
+            "taste": "Sour Skunkiness",
+            "thc_level": "19%",
+            "image": "https://images.leafly.com/flower-images/defaults/purple/strain-10.png?auto=compress%2Cformat&w=350&dpr=2"
+        },
+        {
+            "id":10,
+            "name": "Runtz",
+            "type": "Hybrid (Balance Blend)",
+            "aroma": "Sugary Candy",
+            "taste": "Fruity & Creamy",
+            "thc_level": "17%",
+            "image": "https://images.leafly.com/flower-images/runtz-nug-image.jpg?auto=compress%2Cformat&w=350&dpr=2"
+        },
+        {
+            "id":11,
+            "name": "Runtz (Black)",
+            "type": "Hybrid (Balance Blend)",
+            "aroma": "Creamy & Citrus",
+            "taste": "Sweet Berry",
+            "thc_level": "18%",
+            "image": "https://images.leafly.com/flower-images/defaults/dark-green/strain-4.png?auto=compress%2Cformat&w=350&dpr=2"   
+        },
+        {
+            "id":12,
+            "name": "Runtz (Marshmallow)",
+            "type": "Hybrid (Balance Blend)",
+            "aroma": "Lemony",
+            "taste": "Sweet",
+            "thc_level": "20%",
+            "image": "https://images.leafly.com/flower-images/defaults/generic/strain-8.png?auto=compress%2Cformat&w=350&dpr=2"  
+        },
+        {
+            "id":13,
+            "name": "Runtz (Platinum)",
+            "type": "Hybrid (Balance Blend)",
+            "aroma": "Cheesy",
+            "taste": "Fruity",
+            "thc_level": "25%",
+            "image": "https://blackunicornhub.com/cdn/shop/products/platinum_both_sides_w__54673_1024x1024@2x.png?v=1675867403"
+        },
+        {
+            "id":14,
+            "name": "Slurricane",
+            "type": "Indica",
+            "aroma": "Sugary Berries & Subtle Grape",
+            "taste": "Fruity",
+            "thc_level": "21%",
+            "image": "https://leafly-public.imgix.net/strains/photos/MPWPStPKT0mQMfMPq3fX_Slurricane.jpg?auto=compress%2Cformat&w=350&dpr=2" 
+        },
+        {
+            "id":15,
+            "name": "Space Rocks",
+            "type": "Indica",
+            "aroma": "Sugary Berries & Subtle Grape",
+            "taste": "Fruity",
+            "thc_level": "21%",
+            "image": "https://images.leafly.com/flower-images/defaults/generic/strain-19.png?auto=compress%2Cformat&w=350&dpr=2" 
+        },
+        {
+            "id":16,
+            "name": "Sundae Driver",
+            "type": "Hybrid (Balance Blend)",
+            "aroma": "Smooth, Sweet Blueberry, Apples, Vanilla, Cherries",
+            "taste": "Sour & Fruity",
+            "thc_level": "22%",
+            "image": "https://images.leafly.com/flower-images/defaults/purple/strain-17.png?auto=compress%2Cformat&w=350&dpr=2" 
+        },
+        {
+            "id":17,
+            "name": "Tropical Punch",
+            "type": "Hybrid (Balance Blend)",
+            "aroma": "Fruity",
+            "taste": "Tropical Aripcot & Pear",
+            "thc_level": "23%",
+            "image": "https://images.leafly.com/flower-images/defaults/purple/strain-18.png?auto=compress%2Cformat&w=350&dpr=2" 
+        },
+        {
+            "id":18,
+            "name": "Truffle Butter",
+            "type": "Indica",
+            "aroma": "Fruity & Earthy",
+            "taste": "Berries & Nutty Coffee",
+            "thc_level": "21%",
+            "image": "https://images.leafly.com/flower-images/defaults/generic/strain-39.png?auto=compress%2Cformat&w=350&dpr=2"
+        }
+    ],
+    "stores": [
+        {
+          "id": 1,
+          "name": "Brooklyn Dispensary",
+          "address": "1302 Myrtle Ave",
+          "borough": "Brooklyn, NY",
+          "zipCode": "11221",
+          "website": "https://altitudeclubnyc.com/",
+          "image": "https://altitudeclubnyc.com/wp-content/uploads/2023/06/Altitude-Cannabis-Club-Logo-OfficialWhite-2048x829-1.png"
+        },
+        {
+          "id": 2,
+          "name": "Cloud 9 NYC",
+          "address": "2163 2nd Ave",
+          "borough": "New York, NY",
+          "zipCode": "10029",
+          "website": "N/A",
+          "image": "https://lh3.googleusercontent.com/p/AF1QipNsVUUCvQd2Kuddvno6KHKZtIdPKuLTNWA7E-m3=s1360-w1360-h1020"
+        },
+        {
+          "id": 4,
+          "name": "Roll Up NYC",
+          "address": "117 Montague St",
+          "borough": "Brooklyn, NY",
+          "zipCode": "11201",
+          "website": "https://www.rollupnyc.com/",
+          "image": "https://s3-media0.fl.yelpcdn.com/bphoto/OKTx9gn2oFbfQx3vu69KXg/348s.jpg"
+        },
+        {
+          "id": 5,
+          "name": "Sky Club NYC",
+          "address": "30-79 31st",
+          "borough": "Queens, NY",
+          "zipCode": "11102",
+          "website": "https://skyclubnyc.com/",
+          "image": "https://skyclubnyc.com/wp-content/uploads/2022/07/Sky-Club-Logo-Official.png"
+        },
+        {
+          "id": 6,
+          "name": "Smoke Shop",
+          "address": "493 2nd Avenue",
+          "borough": "New York, NY",
+          "zipCode": "10003",
+          "website": "N/A",
+          "image": "https://www.shutterstock.com/image-vector/vector-illustration-image-two-smoking-260nw-696068914.jpg"
+        },
+        {
+          "id": 7,
+          "name": "The Stoop Smoke Shop",
+          "address": "7514 Tonnelle Ave,",
+          "borough": "North Bergen NJ",
+          "zipCode": "07047",
+          "website": "N/A",
+          "image": "https://lh3.googleusercontent.com/p/AF1QipOTC5XMELtcYKmXrC80tPrBbIUG76YAER7yjy_L=s1360-w1360-h1020"
+        },
+        {
+          "id": 8,
+          "name": "Rent Smokers Club",
+          "address": "3770 E Tremont Ave",
+          "borough": "Bronx, NY",
+          "zipCode": "10465",
+          "website": "N/A",
+          "image": "https://i.imgur.com/04mTWVm.jpg"
+        },
+        {
+            "id": 9,
+            "name": "La Zamilia",
+            "address": "4030 Tenth Ave",
+            "borough": "New York, NY",
+            "zipCode": "10034",
+            "website": "N/A",
+            "image":"https://i.imgur.com/kEooMah.jpg"
+          }
+      ],
+      "shoppingCart": [],
+      "favorites": []
+}
