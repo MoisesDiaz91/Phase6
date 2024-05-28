@@ -1,7 +1,7 @@
 {
     "juices":[
         {
-            "id": 0,
+            "id": 1,
             "collab": "Pixie Stix",
             "name": "Blood Orange",
             "flavor": "Sweet",
@@ -9,7 +9,7 @@
             "price": "$25.00"
         },
         {
-            "id": 1,
+            "id": 2,
             "collab": "Baked Bodega",
             "name": "Pina",
             "flavor": "Sweet Pineapple",
@@ -17,7 +17,7 @@
             "price": "$25.00"
         },
         {
-            "id": 2,
+            "id": 3,
             "collab": "Smokeup212",
             "name": "Morrir Soñando",
             "flavor": "Sweet & Creamy",
@@ -25,7 +25,7 @@
             "price": "$25.00"
         },
         {
-            "id": 3,
+            "id": 4,
             "collab": "Fidel WorldWide",
             "name": "Huckleberry",
             "flavor": "Sweet",
@@ -33,7 +33,7 @@
             "price": "$30.00"
         },
         {
-            "id": 4,
+            "id": 5,
             "collab":"Fidel WorldWide",
             "name": "Lychee",
             "flavor": "Sweet & Bitter",
@@ -41,7 +41,7 @@
             "price": "$30.00"
         },
         {
-            "id": 5,
+            "id": 6,
             "collab":"Fidel WorldWide",
             "name": "Passion Fruit",
             "flavor": "Sweet",
@@ -49,7 +49,7 @@
             "price": "$30.00"
         },
         {
-            "id": 6,
+            "id": 7,
             "collab":"Fidel WorldWide",
             "name": "Peach",
             "flavor": "Sweet",
@@ -57,7 +57,7 @@
             "price": "$30.00"
         },
         {
-            "id": 7,
+            "id": 8,
             "collab":"Fidel WorldWide",
             "name": "Pomegranate",
             "flavor":"Sweet & Bitter",
@@ -65,7 +65,7 @@
             "price": "$30.00"
         },
         {
-            "id": 8,
+            "id": 9,
             "collab":"Fidel WorldWide",
             "name": "Coquito",
             "flavor":"Sweet",
@@ -73,7 +73,7 @@
             "price": "$25.00"
         },
         {
-            "id": 9,
+            "id": 10,
             "collab":"Fidel WorldWide",
             "name": "Coquito (Cookies & Cream)",
             "flavor":"Sweet",
@@ -253,6 +253,10 @@
           "borough": "Brooklyn, NY",
           "zipCode": "11221",
           "website": "https://altitudeclubnyc.com/",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-73.924040, 40.698180]
+          },
           "image": "https://altitudeclubnyc.com/wp-content/uploads/2023/06/Altitude-Cannabis-Club-Logo-OfficialWhite-2048x829-1.png"
         },
         {
@@ -262,6 +266,10 @@
           "borough": "New York, NY",
           "zipCode": "10029",
           "website": "N/A",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-73.940230, 40.794100]
+          },
           "image": "https://lh3.googleusercontent.com/p/AF1QipNsVUUCvQd2Kuddvno6KHKZtIdPKuLTNWA7E-m3=s1360-w1360-h1020"
         },
         {
@@ -271,6 +279,10 @@
           "borough": "Brooklyn, NY",
           "zipCode": "11201",
           "website": "https://www.rollupnyc.com/",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-73.994670, 40.694940]
+          },
           "image": "https://s3-media0.fl.yelpcdn.com/bphoto/OKTx9gn2oFbfQx3vu69KXg/348s.jpg"
         },
         {
@@ -280,6 +292,10 @@
           "borough": "Queens, NY",
           "zipCode": "11102",
           "website": "https://skyclubnyc.com/",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-73.922700, 40.764920]
+          },
           "image": "https://skyclubnyc.com/wp-content/uploads/2022/07/Sky-Club-Logo-Official.png"
         },
         {
@@ -287,8 +303,12 @@
           "name": "Smoke Shop",
           "address": "493 2nd Avenue",
           "borough": "New York, NY",
-          "zipCode": "10003",
+          "zipCode": "10016",
           "website": "N/A",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-73.979030, 40.741000]
+          },
           "image": "https://www.shutterstock.com/image-vector/vector-illustration-image-two-smoking-260nw-696068914.jpg"
         },
         {
@@ -298,6 +318,10 @@
           "borough": "North Bergen NJ",
           "zipCode": "07047",
           "website": "N/A",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-74.018670, 40.804240]
+          },
           "image": "https://lh3.googleusercontent.com/p/AF1QipOTC5XMELtcYKmXrC80tPrBbIUG76YAER7yjy_L=s1360-w1360-h1020"
         },
         {
@@ -307,6 +331,10 @@
           "borough": "Bronx, NY",
           "zipCode": "10465",
           "website": "N/A",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-73.821520, 40.825680]
+          },
           "image": "https://i.imgur.com/04mTWVm.jpg"
         },
         {
@@ -316,6 +344,10 @@
             "borough": "New York, NY",
             "zipCode": "10034",
             "website": "N/A",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.915530, 40.869430]
+              },
             "image":"https://i.imgur.com/kEooMah.jpg"
           }
       ],
